@@ -85,10 +85,10 @@
 <table>
   <tr>
     <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShriAlt&layout=compact&theme=tokyonight" alt="top lang">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncharaYS&layout=compact&theme=tokyonight" alt="top lang">
     </td>
      <td>
-      <img src="https://streak-stats.demolab.com?user=ShriAlt&theme=tokyonight" alt="GitHub Streak"/>
+      <img src="https://streak-stats.demolab.com?user=IncharaYS&theme=tokyonight" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
